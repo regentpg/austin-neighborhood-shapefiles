@@ -12,7 +12,9 @@ A working demo of this content can be found here:
 http://www.regentpg.com/idx/search.html?overlay=subdivision_area#map
 
 Regent Property Group
+
 7035 Bee Cave Rd #204
+
 Austin TX, 78746
 
 512-215-0565
